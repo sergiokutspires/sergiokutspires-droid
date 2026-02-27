@@ -7,9 +7,9 @@ I’m driven by ambition, intellectual hunger, and long-term vision.
 </p>
 
 <p>
-I care about understanding how things actually work — especially intelligence, data, and the systems behind them. Right now I’m building technical depth in data engineering, AI, and cybersecurity, while figuring out where I want to go deep.
+I care about understanding how things actually work, especially intelligence, data, and the systems behind them. Right now I’m building technical depth in data engineering, AI, and cybersecurity, while figuring out where I want to go deep.
 
-I’m curious about many things — but I’m serious about mastering the ones I commit to.
+I’m curious about many things, but I’m serious about mastering the ones I commit to.
 </p>
 
 ---
@@ -25,7 +25,7 @@ I’m curious about many things — but I’m serious about mastering the ones I
 
 <h2>Projects</h2>
 
-<b>FORGe AI Hackathon — 1st Edition</b>  
+<b>FORGe AI Hackathon - 1st Edition</b>  
 Applied AI project built in a competitive setting.
 <a href="https://github.com/sergiokutspires-droid/QuantumSpaghetti_Hackathon">View Repository</a>
 
@@ -33,8 +33,6 @@ Applied AI project built in a competitive setting.
 End-to-end data engineering project implementing an ETL pipeline to extract, transform, and load market capitalization data of the world's largest banks.  
 Includes web scraping, currency transformation, SQLite integration, SQL queries, and structured logging.  
 <a href="https://github.com/sergiokutspires/global-banks-etl-pipeline">View Repository</a>
-
-<br><br>
 
 More in development.
 
