@@ -9,7 +9,7 @@ I’m driven by ambition, intellectual hunger, and long-term vision.
 <p>
 I care about understanding how things actually work — especially intelligence, data, and the systems behind them. Right now I’m building technical depth in data engineering, AI, and cybersecurity, while figuring out where I want to go deep.
 
-I don’t like surface-level knowledge. I prefer structure, clarity, and competence. I’m still early, but I’m serious about getting better.
+I’m curious about many things — but I’m serious about mastering the ones I commit to.
 </p>
 
 ---
